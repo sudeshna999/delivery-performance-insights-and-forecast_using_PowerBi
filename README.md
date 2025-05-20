@@ -17,7 +17,7 @@ This Power BI dashboard provides a comprehensive analysis of delivery performanc
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Power BI Desktop** – Dashboard development and interactive visualizations  
 - **Power Query** – Data transformation and cleaning  
